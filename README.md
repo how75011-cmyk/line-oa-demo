@@ -3,6 +3,8 @@
 A portfolio demo of LINE OA back-office automation for small Taiwanese e-commerce
 shops. Everything (shop, products, orders) is fictional.
 
+**Live demo:** https://line-oa-demo.onrender.com/ (free tier: first load may take ~30–60 s to wake up)
+
 ## What it shows
 
 | Feature | Where |
